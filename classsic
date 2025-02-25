@@ -1,0 +1,43 @@
+[33mcommit efd63fae32f4cd0188c157545070875c408820ca[m[33m ([m[1;36mHEAD -> [m[1;32mrefs/heads/add_classics[m[33m)[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Tue Feb 25 15:08:53 2025 -0600
+
+    D: add classics csv
+
+[33mcommit 74190dd301e4d944ed3cb372d916cd9ad4826221[m[33m ([m[1;32mrefs/heads/main[m[33m)[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Tue Feb 25 14:09:16 2025 -0600
+
+    C: Add Quotes
+
+[33mcommit e3ed9eadcfce2a756092ebc93e8bf6f8b3eb951a[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Tue Feb 25 14:05:11 2025 -0600
+
+    C: Add Quotes
+
+[33mcommit cbc14117977ee7de7287dde18f59ec6dbe65c5ca[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Tue Feb 25 14:04:17 2025 -0600
+
+    Revert "C: Add Quotes"
+    
+    This reverts commit b34e4f3d222b24f94084b7593ea32b28301d3761.
+
+[33mcommit b34e4f3d222b24f94084b7593ea32b28301d3761[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Tue Feb 25 13:59:36 2025 -0600
+
+    C: Add Quotes
+
+[33mcommit eba5e1330d8c2cd066055bffd7e5b70320319f89[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Tue Feb 25 13:45:59 2025 -0600
+
+    B: add titles
+
+[33mcommit ef8a1caaff25aa3793ece938a4102ea2c33b93f1[m
+Author: Kailondo <lbojang@wgu.edu>
+Date:   Mon Feb 24 20:13:50 2025 -0600
+
+    A: add contents.md
